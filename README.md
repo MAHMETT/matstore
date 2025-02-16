@@ -1,4 +1,4 @@
-IThis is the first E-Commerce project that I created using the [NextJs](nextjs.org) Framework.
+This is the first E-Commerce project that I created using the [NextJs](https://nextjs.org) Framework.
 
 ## Technologies
 - [NextJs](https://nextjs.org) - Framework React
