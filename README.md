@@ -1,10 +1,10 @@
-Ini adalah project E-Commerce pertama yang saya buat menggunakan Framework [NextJs](nextjs.org)
+IThis is the first E-Commerce project that I created using the [NextJs](nextjs.org) Framework.
 
 ## Technologies
-- [NextJs](nextjs.org) - Framework React
+- [NextJs](https://nextjs.org) - Framework React
 - TypeScript
-- [TailwindCSS](tailwindcss.com) - Framework CSS
-- [Prisma ORM](prisma.io/)
-- [PostgreSQL](postgresql.org) - Database
-- [Vercel Deployment](vercel.com)
+- [TailwindCSS](https://tailwindcss.com) - Framework CSS
+- [Prisma ORM](https://prisma.io/)
+- [PostgreSQL](https://postgresql.org) - Database
+- [Vercel Deployment](https://vercel.com)
 - Umami - (tracking & analytics)
